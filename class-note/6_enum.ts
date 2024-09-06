@@ -1,4 +1,4 @@
-enum Shoes {
+enum Shoes { // 숫자형 enum은 전 값의 +1 
     Nike = '나이키',
     Adidas = '아디다스',
 }
